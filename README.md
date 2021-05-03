@@ -10,11 +10,11 @@ Here are some ways to remian in a growth mindset.
 
 ## Table of Contents
 * [01](reading-01.md)
-<!-- * [02 Markdown Notes](rn-02-text-editors.md)
-* [03 Git Notes](rn-03-revisions-and-the-cloud.md)
-* [04 HTML](rn-04-html.md)
-* [05 CSS](rn-05-css.md)
-* [06 JavaScript](rn-06-javascript.md)
-* [07 How Computers Work](rn-07-how-computers-work.md)
-* [08 More Javascript notes](rn-08-more-javascript.md)
-* [09 loops](rn-09-more-loops.md) -->
+* [02 Placeholder](rn-02-text-editors.md)
+* [03 Placeholder](rn-03-revisions-and-the-cloud.md)
+* [04 Placeholder](rn-04-html.md)
+* [05 Placeholder](rn-05-css.md)
+* [06 Placeholder](rn-06-javascript.md)
+* [07 Placeholder](rn-07-how-computers-work.md)
+* [08 Placeholder](rn-08-more-javascript.md)
+* [09 Placeholder](rn-09-more-loops.md)
