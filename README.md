@@ -18,3 +18,8 @@ Here are some ways to remian in a growth mindset.
 * [07](reading-07.md)
 * [08](reading-08.md)
 * [09](reading-09.md)
+* [10](reading-10.md)
+* [11](reading-11.md)
+* [12](reading-12.md)
+* [13](reading-13.md)
+* [14](reading-14.md)
