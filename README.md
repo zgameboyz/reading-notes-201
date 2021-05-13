@@ -17,4 +17,4 @@ Here are some ways to remian in a growth mindset.
 * [06](reading-06.md)
 * [07](reading-07.md)
 * [08](reading-08.md)
-* [09 Placeholder](reading-09.md)
+* [09](reading-09.md)
